@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\ПИАНИНА\ПИАНИНА\bin\Debug\net6.0\ПИАНИНА.exe
+C:\Users\1\source\repos\ПИАНИНА\ПИАНИНА\bin\Debug\net6.0\ПИАНИНА.deps.json
+C:\Users\1\source\repos\ПИАНИНА\ПИАНИНА\bin\Debug\net6.0\ПИАНИНА.runtimeconfig.json
+C:\Users\1\source\repos\ПИАНИНА\ПИАНИНА\bin\Debug\net6.0\ПИАНИНА.dll
+C:\Users\1\source\repos\ПИАНИНА\ПИАНИНА\bin\Debug\net6.0\ПИАНИНА.pdb
+C:\Users\1\source\repos\ПИАНИНА\ПИАНИНА\obj\Debug\net6.0\ПИАНИНА.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\ПИАНИНА\ПИАНИНА\obj\Debug\net6.0\ПИАНИНА.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\ПИАНИНА\ПИАНИНА\obj\Debug\net6.0\ПИАНИНА.AssemblyInfo.cs
+C:\Users\1\source\repos\ПИАНИНА\ПИАНИНА\obj\Debug\net6.0\ПИАНИНА.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\ПИАНИНА\ПИАНИНА\obj\Debug\net6.0\ПИАНИНА.dll
+C:\Users\1\source\repos\ПИАНИНА\ПИАНИНА\obj\Debug\net6.0\refint\ПИАНИНА.dll
+C:\Users\1\source\repos\ПИАНИНА\ПИАНИНА\obj\Debug\net6.0\ПИАНИНА.pdb
+C:\Users\1\source\repos\ПИАНИНА\ПИАНИНА\obj\Debug\net6.0\ПИАНИНА.genruntimeconfig.cache
+C:\Users\1\source\repos\ПИАНИНА\ПИАНИНА\obj\Debug\net6.0\ref\ПИАНИНА.dll
